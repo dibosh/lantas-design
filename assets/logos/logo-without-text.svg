@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-without-text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="signup-01" sketch:type="MSArtboardGroup" transform="translate(-141.000000, -119.000000)">
+            <g id="icon-+-text-+-Manage-Contacts-You-" sketch:type="MSLayerGroup" transform="translate(88.000000, 120.000000)">
+                <g id="logo-with-text" transform="translate(39.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="logo-without-text" transform="translate(15.180000, 0.000000)">
+                        <ellipse id="XMLID_191_" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.92" fill="#1770FD" cx="19.2455224" cy="19.2593061" rx="19.159769" ry="18.9443741"></ellipse>
+                        <path d="M0.946010189,18.9807124 C0.946010189,8.96509254 9.15277783,0.850585705 19.2822739,0.850585705 C29.41177,0.850585705 37.6185377,8.96509254 37.6185377,18.9807124 L0.946010189,18.9807124 L0.946010189,18.9807124 Z" id="XMLID_67_" fill-opacity="0.92" fill="#1357C3"></path>
+                        <ellipse id="XMLID_73_" opacity="0.49" fill="#064060" cx="20.1765598" cy="9.59331472" rx="3.92015734" ry="3.87608676"></ellipse>
+                        <ellipse id="XMLID_190_" fill="#FFFFFF" cx="19.2945244" cy="9.30260825" rx="3.85890488" ry="3.81552291"></ellipse>
+                        <ellipse id="XMLID_72_" opacity="0.49" fill="#064060" cx="20.1765598" cy="21.7060859" rx="8.31808386" ry="8.22457161"></ellipse>
+                        <ellipse id="XMLID_189_" fill="#FFFFFF" cx="19.233272" cy="21.3548155" rx="7.71780974" ry="7.63104579"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
